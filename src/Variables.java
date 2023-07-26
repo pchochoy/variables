@@ -29,5 +29,10 @@ public class Variables {
         if (descripcion1.equals(descripcion)) {
             System.out.println("1 - descripcion1 es igual a descripcion");
         }
+
+        System.out.println("El valor maximo de un Byte es " + Byte.MAX_VALUE);
+        System.out.println("El valor maximo de un Short es " + Short.MAX_VALUE);
+
+
     }
 }
